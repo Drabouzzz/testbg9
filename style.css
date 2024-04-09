@@ -1,0 +1,30 @@
+*html ,body {
+    margin: none;
+    padding: none;
+}
+body {
+    background-color: #3a3a3a;
+}
+.isi {
+    width: 405px;
+    background-color: #3a3a3a;
+}
+.isinya {
+    background-color: #3a3a3a;
+}
+.bjudul {
+    display: flex;
+    justify-content: center;
+}
+.bmember {
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+}
+.footer {
+    background-color: #fff;
+    padding-bottom: 20px;
+}
